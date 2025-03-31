@@ -1,5 +1,5 @@
-# SP-25
-INFO-I590: FUNDAMENTALS & APPLICATIONS of LARGE LANGUAGE MODELS (TOPICS IN INFORMATICS)
+SP-25
+# INFO-I590: FUNDAMENTALS & APPLICATIONS of LARGE LANGUAGE MODELS (TOPICS IN INFORMATICS)
 
 - Learn the principles, architectures, and training methods of large language models;
 - Gain hands-on experience fine-tuning and applying LLMs across various domains;
